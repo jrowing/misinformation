@@ -34,6 +34,35 @@ ul.task-list li input[type="checkbox"] {
 <link href="Misinformation_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="Misinformation_files/libs/bootstrap/bootstrap-c0367b04c37547644fece4185067e4a7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -55,10 +84,9 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#breaking-scientists-say-bananas-are-doomed-a-deadly-fungus-is-wiping-them-out-fast-eat-em-while-you-can-bananacrisis-foodpanic" id="toc-breaking-scientists-say-bananas-are-doomed-a-deadly-fungus-is-wiping-them-out-fast-eat-em-while-you-can-bananacrisis-foodpanic" class="nav-link" data-scroll-target="#breaking-scientists-say-bananas-are-doomed-a-deadly-fungus-is-wiping-them-out-fast-eat-em-while-you-can-bananacrisis-foodpanic">1 - “BREAKING: Scientists say bananas are doomed — a deadly fungus is wiping them out fast! Eat ’em while you can! 🍌 #BananaCrisis #FoodPanic”<img src="url.webp" class="img-fluid"></a></li>
   <li><a href="#missile-strike-in-tel-aviv" id="toc-missile-strike-in-tel-aviv" class="nav-link" data-scroll-target="#missile-strike-in-tel-aviv">2 - Missile strike in Tel Aviv:</a></li>
   <li><a href="#katy-perry-in-space" id="toc-katy-perry-in-space" class="nav-link" data-scroll-target="#katy-perry-in-space">3 - Katy Perry in space:</a></li>
-  <li><a href="#häagen-dazs-has-no-meaning-in-any-language-it-was-meant-to-sound-european.-it-was-started-by-reuben-mattus-a-polish-immigrant-to-new-york-who-sold-fruit-ice-and-ice-cream-from-a-horse-drawn-cart." id="toc-häagen-dazs-has-no-meaning-in-any-language-it-was-meant-to-sound-european.-it-was-started-by-reuben-mattus-a-polish-immigrant-to-new-york-who-sold-fruit-ice-and-ice-cream-from-a-horse-drawn-cart." class="nav-link" data-scroll-target="#häagen-dazs-has-no-meaning-in-any-language-it-was-meant-to-sound-european.-it-was-started-by-reuben-mattus-a-polish-immigrant-to-new-york-who-sold-fruit-ice-and-ice-cream-from-a-horse-drawn-cart.">4 - “Häagen-Dazs” has no meaning in any language, it was meant to sound “European”. It was started by Reuben Mattus, a Polish immigrant to New York who sold fruit ice and ice cream from a horse-drawn cart.</a></li>
+  <li><a href="#häagen-dazs-has-no-meaning-in-any-language" id="toc-häagen-dazs-has-no-meaning-in-any-language" class="nav-link" data-scroll-target="#häagen-dazs-has-no-meaning-in-any-language">4 - “Häagen-Dazs” has no meaning in any language…</a></li>
   </ul></li>
   <li><a href="#task-4---the-snopes-daily-quiz" id="toc-task-4---the-snopes-daily-quiz" class="nav-link" data-scroll-target="#task-4---the-snopes-daily-quiz">Task 4 - the snopes daily quiz</a></li>
-  <li><a href="#task-15---investigating-political-parties-and-informed-voting" id="toc-task-15---investigating-political-parties-and-informed-voting" class="nav-link" data-scroll-target="#task-15---investigating-political-parties-and-informed-voting">Task 15 - Investigating Political Parties and Informed Voting</a></li>
   <li><a href="#special-secret-bonus" id="toc-special-secret-bonus" class="nav-link" data-scroll-target="#special-secret-bonus">Special secret bonus:</a>
   <ul class="collapse">
   <li><a href="#example-of-misinformation" id="toc-example-of-misinformation" class="nav-link" data-scroll-target="#example-of-misinformation">Example of Misinformation:</a></li>
@@ -113,6 +141,7 @@ ul.task-list li input[type="checkbox"] {
 <li><p><a href="https://www.theguardian.com/science/blog/2017/dec/04/echo-chambers-are-dangerous-we-must-try-to-break-free-of-our-online-bubbles">echo chambers</a></p></li>
 </ul>
 <p>it’s worth noting that they’re just the most applicable of the <a href="https://en.wikipedia.org/wiki/List_of_cognitive_biases">huge list of cognitive biases we humans are subject to</a></p>
+<p><span class="math display">\[\\[1in]\]</span></p>
 </section>
 </section>
 <section id="task-3" class="level2">
@@ -130,18 +159,16 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="https://x.com/itechnosmith/status/1912469592280048016?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1912469592280048016%7Ctwgr%5E14c18604b7b75a0b0d3489d5b1bd20c34dc5b30e%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.euronews.com%2Fculture%2F2025%2F04%2F18%2Fdebunking-the-conspiracy-theorists-who-claim-katy-perrys-space-trip-was-a-hoax">Technosmith (@itechnosmith) on X</a></p>
 <p><img src="Screenshot%202025-04-23%20at%2018.59.17.png" class="img-fluid"></p>
 </section>
-<section id="häagen-dazs-has-no-meaning-in-any-language-it-was-meant-to-sound-european.-it-was-started-by-reuben-mattus-a-polish-immigrant-to-new-york-who-sold-fruit-ice-and-ice-cream-from-a-horse-drawn-cart." class="level3">
-<h3 class="anchored" data-anchor-id="häagen-dazs-has-no-meaning-in-any-language-it-was-meant-to-sound-european.-it-was-started-by-reuben-mattus-a-polish-immigrant-to-new-york-who-sold-fruit-ice-and-ice-cream-from-a-horse-drawn-cart.">4 - “Häagen-Dazs” has no meaning in any language, it was meant to sound “European”. It was started by Reuben Mattus, a Polish immigrant to New York who sold fruit ice and ice cream from a horse-drawn cart.</h3>
-<hr>
+<section id="häagen-dazs-has-no-meaning-in-any-language" class="level3">
+<h3 class="anchored" data-anchor-id="häagen-dazs-has-no-meaning-in-any-language">4 - “Häagen-Dazs” has no meaning in any language…</h3>
+<p>It was meant to sound “European”. The company was started by Reuben Mattus, a Polish immigrant to New York who sold fruit ice and ice cream from a horse-drawn cart. <span class="math display">\[\\[1in]\]</span> ————————————————————————</p>
 </section>
 </section>
 <section id="task-4---the-snopes-daily-quiz" class="level2">
 <h2 class="anchored" data-anchor-id="task-4---the-snopes-daily-quiz">Task 4 - the snopes daily quiz</h2>
 <p>Now you have had some practice - <a href="https://www.snopes.com/game/">try the snopes quiz</a></p>
 <hr>
-</section>
-<section id="task-15---investigating-political-parties-and-informed-voting" class="level2">
-<h2 class="anchored" data-anchor-id="task-15---investigating-political-parties-and-informed-voting">Task 15 - Investigating Political Parties and Informed Voting</h2>
+<p><span class="math display">\[\\[1in]\]</span> ## Task 15 - Investigating Political Parties and Informed Voting</p>
 <p>In a democracy, being an informed voter is one of the most powerful roles you can play. But with dozens of political parties, conflicting claims, and complex issues, how do you decide who to vote for? It can be really tricky and there are very many examples of untruths:</p>
 <table class="caption-top table">
 <colgroup>
@@ -226,6 +253,10 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
+<p><span class="math display">\[\\[1in]\]</span> <span class="math display">\[\\[1in]\]</span> <span class="math display">\[\\[1in]\]</span></p>
+<p><span class="math display">\[\\[1in]\]</span></p>
+<p><span class="math display">\[\\[1in]\]</span></p>
+<p><span class="math display">\[\\[1in]\]</span></p>
 </section>
 <section id="special-secret-bonus" class="level2">
 <h2 class="anchored" data-anchor-id="special-secret-bonus">Special secret bonus:</h2>
