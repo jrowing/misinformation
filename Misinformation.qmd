@@ -1,0 +1,118 @@
+---
+title: "Misinformation session"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+   
+    other-links:
+      - text: Google Reverse Image Search
+        href: https://images.google.com/
+      - text: TinEye – Image Search
+        href: https://tineye.com/
+      - text: Snopes – Fact Checking
+        href: https://www.snopes.com/
+      - text: Full Fact (UK)
+        href: https://fullfact.org/
+      - text: Media Bias Chart (Ad Fontes)
+        href: https://adfontesmedia.com/
+      - text: MANY more tools
+        href: https://www.rand.org/research/projects/truth-decay/fighting-disinformation/search.html
+---
+
+## Task 1
+
+Read these Definitions and the examples of each - Can you see how the term applies?
+
+-   Misinformation: False info shared without intent to deceive [Example](https://nymag.com/intelligencer/2017/01/sean-spicer-retweets-the-onion-calling-job-misinformation.html)
+
+-   Disinformation: Deliberately deceptive info [Example](https://globalnews.ca/news/10289988/lululemon-greenwashing-claims-environmental-groups/)
+
+-   Malinformation: True info used to cause harm [Examples](https://en.wikipedia.org/wiki/Malinformation)
+
+### Investigate these common motives for mis/dis/malinformation:
+
+-   [clicks](https://engineering.nyu.edu/news/misinformation-facebook-got-six-times-more-clicks-factual-news-during-2020-election-study-says),
+-   [money](https://www.bbc.co.uk/news/articles/cx2dpj485nno),
+-   [politics](https://news.mit.edu/2024/misinformation-is-all-around-how-can-we-combat-it-1022),
+-   [trolling](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+### We’re all vulnerable:
+
+Our brains are really succeptable to misjusgements - have a look at these common issues:
+
+-   [confirmation bias](https://thedecisionlab.com/biases/confirmation-bias),
+
+-   [echo chambers](https://www.theguardian.com/science/blog/2017/dec/04/echo-chambers-are-dangerous-we-must-try-to-break-free-of-our-online-bubbles)
+
+it's worth noting that they're just the most applicable of the [huge list of cognitive biases we humans are subject to](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
+
+
+## Task 3:
+
+Research the following - Which are true, How do you know?
+
+### 1 - “BREAKING: Scientists say bananas are doomed — a deadly fungus is wiping them out fast! Eat ‘em while you can! 🍌 #BananaCrisis #FoodPanic”![](url.webp)
+
+### 2 - Missile strike in Tel Aviv:
+
+[SilencedSirs◼️ (\@SilentlySirs) on X](https://x.com/SilentlySirs/status/1839445117780062529) ![](Picture%201.jpeg)
+
+### 3 - Katy Perry in space:
+
+[Technosmith (\@itechnosmith) on X](https://x.com/itechnosmith/status/1912469592280048016?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1912469592280048016%7Ctwgr%5E14c18604b7b75a0b0d3489d5b1bd20c34dc5b30e%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.euronews.com%2Fculture%2F2025%2F04%2F18%2Fdebunking-the-conspiracy-theorists-who-claim-katy-perrys-space-trip-was-a-hoax)
+
+![](Screenshot%202025-04-23%20at%2018.59.17.png)
+
+### 4 - "Häagen-Dazs" has no meaning in any language, it was meant to sound "European". It was started by Reuben Mattus, a Polish immigrant to New York who sold fruit ice and ice cream from a horse-drawn cart.
+
+------------------------------------------------------------------------
+
+## Task 4 - the snopes daily quiz
+
+Now you have had some practice - [try the snopes quiz](https://www.snopes.com/game/)
+
+------------------------------------------------------------------------
+
+## Task 15 - Investigating Political Parties and Informed Voting
+
+In a democracy, being an informed voter is one of the most powerful roles you can play. But with dozens of political parties, conflicting claims, and complex issues, how do you decide who to vote for? It can be really tricky and there are very many examples of untruths:
+
+| **Type**           | **Real-World Example**                                                                                     | **Explanation**                                                                                                   |
+|--------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| **Misinformation** | During the 2016 EU Referendum, the Leave campaign’s "£350 million a week to the NHS" bus claim.            | Many people repeated the claim believing it was true, but it was misleading and based on gross figures, not net. |
+| **Disinformation** | Russian interference in the 2016 U.S. election, e.g., fake Facebook accounts posing as Americans.           | Troll farms deliberately spread false stories to sow division and influence voter behaviour.                      |
+| **Malinformation** | The 2016 leak of Hillary Clinton’s campaign emails by WikiLeaks just before the U.S. election.              | The emails were real, but their release was timed and framed to damage her credibility and campaign.              |
+
+
+Use these sites to explore a range of independent online tools designed to help citizens understand UK politics, political parties, and the policies that affect your life. From comparing manifestos to analysing MPs’ voting records, these resources allow you to go beyond headlines and party slogans.
+
+
+| Resource Name              | Description                                                                 | Link                                      |
+|---------------------------|-----------------------------------------------------------------------------|-------------------------------------------|
+| TheyWorkForYou            | Tracks MPs’ voting records, speeches, and attendance.                       | [theyworkforyou.com](https://www.theyworkforyou.com) |
+| Vote for Policies         | Lets you compare policies from parties without knowing who wrote them.     | [voteforpolicies.org.uk](https://voteforpolicies.org.uk) |
+| Democracy Club / WhoCanIVoteFor | Find out who is standing in your area and their manifestos.         | [whocanivotefor.co.uk](https://whocanivotefor.co.uk) |
+| Electoral Commission      | Official info on elections, registering to vote, and party finances.        | [electoralcommission.org.uk](https://www.electoralcommission.org.uk) |
+| Full Fact                 | Independent fact-checking of political claims.                              | [fullfact.org](https://fullfact.org) |
+| BBC Politics              | News and analysis on UK political parties and elections.                    | [bbc.co.uk/news/politics](https://www.bbc.co.uk/news/politics) |
+| Parliament UK             | Information about the UK Parliament, laws, and how it works.                | [parliament.uk](https://www.parliament.uk) |
+| Political Compass         | Quiz to help you see where your views align on the political spectrum.      | [politicalcompass.org](https://www.politicalcompass.org) |
+
+
+## Special secret bonus:
+
+Find me a good example of misinformation, format it like this and send it to me for use next session:
+
+### Example of Misinformation:
+Claim: "Drinking 8 glasses of water a day is necessary for optimal health."
+
+### Explanation:
+This statement is misinformation because it presents an oversimplified and outdated guideline. The "8 glasses of water a day" recommendation is a generalization that does not apply to everyone, as individual hydration needs depend on factors such as physical activity, climate, and overall health. More recent research suggests that water intake varies for each person and that hydration can come from both beverages and food sources (Institute of Medicine, 2004). Therefore, the claim misleads people by implying a one-size-fits-all solution without taking personal factors into account.
+
+Reference:
+
+Institute of Medicine. (2004). Dietary reference intakes for water, potassium, sodium, chloride, and sulfate. National Academies Press. https://doi.org/10.17226/10925
+
+
+
